@@ -1,0 +1,22 @@
+{
+    "name": "ekandreas/gatekeeper",
+    "type": "wordpress-plugin",
+    "version": "0.1",
+    "description": "WordPress plugin to reuse authentication functions",
+    "keywords": ["authentication", "wordpress", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Ek",
+            "email": "andreas@aekab.se"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+          "Gatekeeper\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gatekeeper\n"
+"POT-Creation-Date: 2016-02-11 11:35+0100\n"
+"PO-Revision-Date: 2016-02-11 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: gatekeeper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: filters.php:13
+msgid "TEST"
+msgstr "SVENSKA!"
+
+#: src/Forgot.php:24 src/Login.php:23 src/Login.php:32
+msgid "Sorry! Given credentials are not correct."
+msgstr "Ledsen men de uppgifter du angav stämmer inte."
+
+#: src/Forgot.php:28
+msgid "Login link to "
+msgstr "Inloggningslänk till "
+
+#: src/Forgot.php:29
+msgid "Login link requested. This can only be used once.<br/>"
+msgstr "Inloggningslänk efterfrågad. Den kan bara användas en enda gång.<br/>"
+
+#: src/Forgot.php:31
+msgid "Secret Login Link"
+msgstr "Hemlig inloggningslänk"
+
+#: src/Forgot.php:39
+msgid "Login link sent. Check your inbox!"
+msgstr "Inloggningslänk skickad. Kontrollera din e-post!"
+
+#: src/Login.php:38
+msgid "Welcome! We will now start redirecting you..."
+msgstr "Välkommen! Vi slussar dig vidare…"
+
+#: src/Register.php:20
+msgid "Email is not acceptable!"
+msgstr "E-postadressen är inte korrekt!"
+
+#: src/Register.php:31
+msgid "Please ensure first name and last name!"
+msgstr "Se till att förnamn och efternamn finns!"
+
+#: src/Register.php:39
+msgid "Password needs to be at least 6 letters or digits long."
+msgstr "Lösenordet måste vara minst 6 tecken långt."
+
+#: src/Register.php:51
+msgid ""
+"Email address already exists. Use the \"Forgot password\" to get a login "
+"link!"
+msgstr ""
+"Epostadressen finns redan. Använd “Glömt lösen” för att få en "
+"inloggningslänk!"
+
+#: src/Register.php:75
+msgid ""
+"<h2>Welcome!</h2>\n"
+"<br/>You can now login to the site with the credentials given."
+msgstr ""
+"<h2>Välkommen!</h2>\n"
+"<br/>Du kan nu logga in på webbplatsen med de uppgifter du angett."
+
+#: src/Register.php:81
+msgid "Not possible to create an account with the data given."
+msgstr "Det är inte möjligt att skapa ett konto med dessa uppgifterna."
+
+#. Plugin Name of the plugin/theme
+msgid "Gatekeeper"
+msgstr "Gatekeeper"
+
+#. Description of the plugin/theme
+msgid "Reuse of authentication functions"
+msgstr "Återanvändning av inloggningsfunktioner"
+
+#. Author of the plugin/theme
+msgid "Andreas Ek"
+msgstr "Andreas Ek"
+
+#. Author URI of the plugin/theme
+msgid "http://www.aekab.se/"
+msgstr "http://www.aekab.se/"
